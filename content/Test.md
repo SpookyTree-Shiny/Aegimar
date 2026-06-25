@@ -1,5 +1,5 @@
 ---
-title: Example Title
+title: Test Doc
 draft: false
 tags:
   - example-tag
