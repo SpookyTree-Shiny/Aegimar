@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: https://spookytree-shiny.github.io/Aegimar/
+  baseUrl: spookytree-shiny.github.io/Aegimar
   ignorePatterns:
     - private
     - templates
