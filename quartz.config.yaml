@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: spookytree-shiny.github.io/Aegimar
+  baseUrl: www.aegimar.xyz
   ignorePatterns:
     - private
     - templates
@@ -131,7 +131,7 @@ plugins:
       position: left
       priority: 50
   - source: github:quartz-community/graph
-    enabled: true
+    enabled: false
     layout:
       position: right
       priority: 10
