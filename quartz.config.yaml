@@ -47,7 +47,7 @@ plugins:
       subdir: plugin
     enabled: true
     options:
-      theme: "quest-journal"
+      theme: "material-gruvbox"
       mode: both
   - source: github:quartz-community/created-modified-date
     enabled: true
@@ -217,6 +217,7 @@ plugins:
     layout:
       position: afterBody
       priority: 5
+      condition: index-only
   - source: github:quartz-community/spacer
     enabled: true
     options: {}
