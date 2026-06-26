@@ -1,3 +1,10 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+button#explorer-toggle,
+.explorer .toggle-button,
+#explorer-toggle {
+    display: none !important;
+    visibility: hidden !important;
+    pointer-events: none !important;
+}
