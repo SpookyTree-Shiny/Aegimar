@@ -213,8 +213,6 @@ plugins:
     options:
       title: "recently updated notes"
       limit: 4
-      showTags: false
-      linkToMore: true
     layout:
       position: right
       priority: 40
