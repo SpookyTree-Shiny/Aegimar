@@ -47,7 +47,7 @@ plugins:
       subdir: plugin
     enabled: true
     options:
-      theme: "fancy-a-story"
+      theme: "quest-journal"
       mode: both
   - source: github:quartz-community/created-modified-date
     enabled: true
@@ -209,7 +209,7 @@ plugins:
         GitHub: https://github.com/jackyzha0/quartz
         Discord Community: https://discord.gg/cRFFHYye7t
   - source: github:quartz-community/recent-notes
-    enabled: false
+    enabled: true
   - source: github:quartz-community/spacer
     enabled: true
     options: {}
