@@ -215,9 +215,8 @@ plugins:
       limit: 4
       showTags: false
     layout:
-      position: right
-      priority: 40
-      condition: index-only
+      position: afterbody
+      priority: 5
   - source: github:quartz-community/spacer
     enabled: true
     options: {}
