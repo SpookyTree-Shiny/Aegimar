@@ -213,10 +213,11 @@ plugins:
     options:
       title: "recently updated notes"
       limit: 4
+      showTags: false
     layout:
       position: right
       priority: 40
-      condition: index
+      condition: index-only
   - source: github:quartz-community/spacer
     enabled: true
     options: {}
