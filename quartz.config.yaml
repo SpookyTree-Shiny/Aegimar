@@ -210,6 +210,12 @@ plugins:
         Discord Community: https://discord.gg/cRFFHYye7t
   - source: github:quartz-community/recent-notes
     enabled: true
+    options:
+      title: "recently updated notes"
+      limit: 4
+    layout:
+      position: right
+      priority: 40
   - source: github:quartz-community/spacer
     enabled: true
     options: {}
