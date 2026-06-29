@@ -6,7 +6,7 @@ tags:
 ---
 Dhynia is the god worshiped by the townsfolk of [[Windywisps]].  She is the wind god of fortunes and individuality.  She is what many would consider a folk god.  No one knows what she looks like, but she is always associated with the wind.  Many say that the you can see her fingers running through the blades of grass across the rolling hills of [[Windywisps]].  Worshipers also honor Dhynia through their self expression, hard work, and charity.
 
-> [!quote]- Cerso
+> [!quote]+ [[Cerso]]
 >She's known as the wind of fortune, bringing luck and prosperity to those who honor her.  She's the galedancer, elegantly prancing across the grassy knolls.  She's the mother of the harvest, with her winds blessing fields and fertile lands.  We honor her by working hard, cherishing others, and being true to ourselves.  Just as the wind is is strong and unrelenting, provides relief on the harshest of summer days, and never changes for any but themselves, we shall be the wind in her name.
 
 # iconography and religious symbols
